@@ -1,3 +1,4 @@
 Lista conocimientos previos:
 1.php
 2.javascript
+3.SQL
