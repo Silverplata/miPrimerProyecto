@@ -3,3 +3,4 @@ Lista conocimientos previos:
 2.javascript
 3.SQL
 4.MYSQL
+5.MongoDB
